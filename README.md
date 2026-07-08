@@ -118,3 +118,5 @@ Repository Structure
 │   └── dashboard_overview.png
 └── data/
     └── source_information.txt
+Lessons Learned:
+This project reinforced the importance of structuring data before analysis. Building a fact table and dimension table, creating relationships in the Data Model, and troubleshooting Power Query load issues demonstrated how proper data modeling simplifies reporting and visualization. The experience also highlighted the value of iterative problem solving when working with real-world datasets.
