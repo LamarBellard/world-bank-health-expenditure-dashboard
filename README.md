@@ -4,6 +4,10 @@ Project Overview
 
 This project analyzes World Bank health expenditure data to identify patterns across regions, income groups, countries, and time. Using Microsoft Excel, Power Query, and Power Pivot, I transformed raw World Bank data into a relational data model and developed an interactive dashboard to support exploratory analysis and data-driven decision making.
 
+Project Goals
+The goal of this project was to explore how healthcare investment varies globally and demonstrate the process of transforming publicly available data into actionable insights.
+
+
 Business Questions
 
 This project was designed to answer the following questions:
@@ -24,7 +28,7 @@ Data Source
 
 Source: World Bank Open Data
 
-Dataset: Health expenditure per capita (current US$)
+Dataset: World Bank Open Data indicator SH.XPD.CHEX.PC.CD: Current health expenditure per capita (current US$). This dataset provides annual healthcare spending estimates by country, allowing analysis of global healthcare investment patterns across regions, income groups, and time periods.
 
 https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
 
@@ -45,6 +49,26 @@ Creating Fact and Dimension tables
 Building a relational data model using Country Code
 Creating PivotTables and PivotCharts for analysis
 Dashboard Features
+
+Project Architecture
+World Bank CSV Data
+        |
+        ↓
+Power Query ETL
+        |
+        ↓
+Fact Health Expenditure Table
+        +
+Country Dimension Table
+        |
+        ↓
+Excel Data Model
+        |
+        ↓
+PivotTables / PivotCharts
+        |
+        ↓
+Interactive Dashboard
 
 The dashboard includes:
 
