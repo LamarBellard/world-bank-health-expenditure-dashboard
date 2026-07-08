@@ -118,5 +118,10 @@ Repository Structure
 │   └── dashboard_overview.png
 └── data/
     └── source_information.txt
-Lessons Learned:
-This project reinforced the importance of structuring data before analysis. Building a fact table and dimension table, creating relationships in the Data Model, and troubleshooting Power Query load issues demonstrated how proper data modeling simplifies reporting and visualization. The experience also highlighted the value of iterative problem solving when working with real-world datasets.
+Lessons Learned
+
+This project reinforced the importance of designing a strong data model before building visualizations. Transforming wide-format data into a normalized fact table, creating a separate country dimension, and establishing relationships in the Data Model significantly simplified analysis. Throughout development, I also gained experience troubleshooting Power Query transformations, resolving data loading issues, and validating relationships before creating dashboards. The project demonstrated that effective analytics depends as much on careful data preparation and problem solving as it does on visualization.
+
+About This Project:
+
+This project was completed as part of my transition from a 17-year career as a registered nurse into data analytics. It reflects my commitment to learning industry-standard data preparation, modeling, and visualization techniques using real-world public datasets.
