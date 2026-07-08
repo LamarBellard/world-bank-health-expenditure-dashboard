@@ -26,7 +26,7 @@ Source: World Bank Open Data
 
 Dataset: Health expenditure per capita (current US$)
 
-(Include the link to the World Bank dataset.)
+https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
 
 Data Preparation (ETL Process)
 
@@ -54,6 +54,7 @@ Income level comparisons
 Country-level exploration
 Interactive slicers for Year, Region, and Income Level
 
+<img width="1704" height="767" alt="image" src="https://github.com/user-attachments/assets/b4baa313-5ea7-4b59-8c0b-9f37ebb52709" />
 <img width="808" height="465" alt="image" src="https://github.com/user-attachments/assets/147b0d8b-d8f8-4d69-9519-306cc4e363c2" />
 <img width="799" height="444" alt="image" src="https://github.com/user-attachments/assets/5c13bf62-e5be-4daa-a889-fa5a9876f157" />
 <img width="802" height="460" alt="image" src="https://github.com/user-attachments/assets/97194067-3b8d-4084-922a-c5b8ca888419" />
@@ -118,6 +119,7 @@ Repository Structure
 │   └── dashboard_overview.png
 └── data/
     └── source_information.txt
+    
 Lessons Learned
 
 This project reinforced the importance of designing a strong data model before building visualizations. Transforming wide-format data into a normalized fact table, creating a separate country dimension, and establishing relationships in the Data Model significantly simplified analysis. Throughout development, I also gained experience troubleshooting Power Query transformations, resolving data loading issues, and validating relationships before creating dashboards. The project demonstrated that effective analytics depends as much on careful data preparation and problem solving as it does on visualization.
