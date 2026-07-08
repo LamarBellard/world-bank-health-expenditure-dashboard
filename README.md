@@ -146,6 +146,7 @@ Repository Structure
 Lessons Learned
 
 This project reinforced the importance of designing a strong data model before building visualizations. Transforming wide-format data into a normalized fact table, creating a separate country dimension, and establishing relationships in the Data Model significantly simplified analysis. Throughout development, I also gained experience troubleshooting Power Query transformations, resolving data loading issues, and validating relationships before creating dashboards. The project demonstrated that effective analytics depends as much on careful data preparation and problem solving as it does on visualization.
+Building the Excel Data Model highlighted the importance of structuring data relationships before visualization. While additional dashboard features such as timeline controls can depend on model architecture, establishing a reliable analytical foundation was the priority.
 
 About This Project:
 
