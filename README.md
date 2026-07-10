@@ -7,6 +7,19 @@ This project analyzes World Bank health expenditure data to identify patterns ac
 Project Goals
 The goal of this project was to explore how healthcare investment varies globally and demonstrate the process of transforming publicly available data into actionable insights.
 
+## Project Structure
+
+├── Data
+│   └── World Bank Health Dataset
+│
+├── Excel Dashboard
+│   └── Health_Expenditure_Dashboard.xlsx
+│
+├── Documentation
+│   └── README.md
+│
+└── Screenshots
+    └── Dashboard Preview
 
 Business Questions
 
@@ -84,7 +97,7 @@ Interactive slicers for Year, Region, and Income Level
 <img width="799" height="444" alt="image" src="https://github.com/user-attachments/assets/5c13bf62-e5be-4daa-a889-fa5a9876f157" />
 <img width="795" height="453" alt="image" src="https://github.com/user-attachments/assets/4ed94e34-7abb-4343-b924-2bcfd164fe54" />
 
-Key Findings
+## Key Insights
 
 Preliminary analysis revealed several notable trends:
 
@@ -92,7 +105,10 @@ North America reported the highest average health expenditure per capita.
 Sub-Saharan Africa reported the lowest average expenditure.
 Higher-income regions consistently demonstrated greater healthcare spending.
 Regional differences in healthcare investment are substantial and easily explored using interactive filters.
-
+Global life expectancy increased significantly from 1960-2024.
+Lower-income countries showed slower improvements.
+COVID-19 created measurable disruptions in global life expectancy trends.
+Healthcare expenditure patterns varied significantly across income groups.
 
 
 Challenges Encountered
