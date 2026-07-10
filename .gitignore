@@ -1,0 +1,14 @@
+# Excel temporary files
+~$*.xlsx
+*.xlsb
+*.tmp
+
+# AutoRecover files
+*.xlk
+
+# Power Query cache/temp files
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
