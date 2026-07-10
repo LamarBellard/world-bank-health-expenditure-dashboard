@@ -79,7 +79,7 @@ Country-level exploration
 Interactive slicers for Year, Region, and Income Level
 
 <img width="1704" height="767" alt="image" src="https://github.com/user-attachments/assets/b4baa313-5ea7-4b59-8c0b-9f37ebb52709" />
-<img width="1784" height="820" alt="image" src="https://github.com/user-attachments/assets/0822d867-8aba-440f-a4c6-29676099c65f" />
+<img width="1676" height="830" alt="image" src="https://github.com/user-attachments/assets/da2130dc-e1b0-416b-94ad-8606dd62594d" />
 <img width="808" height="465" alt="image" src="https://github.com/user-attachments/assets/147b0d8b-d8f8-4d69-9519-306cc4e363c2" />
 <img width="799" height="444" alt="image" src="https://github.com/user-attachments/assets/5c13bf62-e5be-4daa-a889-fa5a9876f157" />
 <img width="795" height="453" alt="image" src="https://github.com/user-attachments/assets/4ed94e34-7abb-4343-b924-2bcfd164fe54" />
